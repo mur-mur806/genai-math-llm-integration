@@ -76,6 +76,7 @@ print("Volume of cylinder:", json.loads(result)["volume"])
 ```
 
 ### OUTPUT:
-![alt text](<WhatsApp Image 2026-10-27 at 16.11.38.jpeg>)
+<img width="1535" height="725" alt="image" src="https://github.com/user-attachments/assets/a7498634-6abe-4149-87e3-90e7b14c015e" />
+
 ### RESULT:
 Thus, the Python function for calculating the volume of a cylinder was designed and integrated with the LLM chat completion system using function calling to obtain the required result.
